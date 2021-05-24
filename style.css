@@ -97,7 +97,6 @@ footer ul {
 }
 
 .links {
-    margin-bottom: 25px;
-    width: 45%;
-    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
